@@ -1,7 +1,7 @@
 # graalvm-v2310-in-shardingsphere-package-test
 
-
-- For https://github.com/apache/shardingsphere/pull/28609 and https://github.com/apache/shardingsphere/issues/21347 .
+- For https://github.com/oracle/graal/issues/7500.
+- Also for https://github.com/apache/shardingsphere/pull/28609 and https://github.com/apache/shardingsphere/issues/21347 .
 - On the new Ubuntu 22.04.3 instance, execute the following command:
 ```bash
 sudo apt install unzip zip curl sed -y
